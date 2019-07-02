@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<users>
+  <user>
+    <login>Dima</login>
+    <email>kvasnikov.dima@mail.ru</email>
+    <password>f0e428857dbc8512d9ed2b1a6bc75e89</password>
+    <name>Dima</name>
+  </user>
+  <user>
+    <login>dima</login>
+    <email>312</email>
+    <password>f0e428857dbc8512d9ed2b1a6bc75e89</password>
+    <name>fads</name>
+  </user>
+</users>
